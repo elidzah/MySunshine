@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySunshine</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello my blank fragment</string>
+    <string name="today_june_24">Today, June 24</string>
+    <string name="action_settings">Setting the action :)</string>
+</resources>
